@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
  <div>
    <a href="https://github.com/Gregory-SF">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gregory-SF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 </br>
-
+-->
 <div>
   <a href="www.linkedin.com/in/gregory-soares-b9a58b291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
