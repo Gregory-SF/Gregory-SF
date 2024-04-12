@@ -1,5 +1,5 @@
-###  Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
-
+<!-- ###  Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
+-->
 <!--
 **Gregory-SF/Gregory-SF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,16 +11,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
  <div>
    <a href="https://github.com/Gregory-SF">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gregory-SF&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-SF&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
+-->
+### Olá
 <div> 
   <h1> Estudante de Engenharia de Software no IFPR</h1>
 </div>
@@ -30,7 +28,6 @@ Here are some ideas to get you started:
  Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
  </p>
 </div>
--->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
