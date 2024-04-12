@@ -1,5 +1,3 @@
-<!-- ###  Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
--->
 <!--
 **Gregory-SF/Gregory-SF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +16,8 @@ Here are some ideas to get you started:
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-SF&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 -->
-### Olá
 <div> 
-  <h1> Estudante de Engenharia de Software no IFPR</h1>
+  <h2> Estudante de Engenharia de Software no IFPR</h2>
 </div>
 
 <div>
