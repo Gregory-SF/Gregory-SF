@@ -20,16 +20,19 @@ Here are some ideas to get you started:
   <h2> Estudante de Engenharia de Software no IFPR</h2>
 </div>
 
-<div>
+<!--<div>
   <p>
- Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
+  Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
  </p>
-</div>
+</div>-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="PSTGR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+
 </div>
 </br>
 <div>
