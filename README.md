@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   <h2> Estudante de Engenharia de Software no IFPR</h2>
 </div>
 
-<!--<div>
+<div>
   <p>
   Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
  </p>
-</div>-->
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
