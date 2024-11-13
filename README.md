@@ -10,11 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
- <div>
-   <a href="https://github.com/Gregory-SF">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gregory-SF&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-SF&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 -->
 <div> 
   <h2> Estudante de Engenharia de Software no IFPR</h2>
@@ -38,4 +33,10 @@ Here are some ideas to get you started:
 <div>
   <a href = "https://mailto:gregory16704@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gregory-soares-b9a58b291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+ <div>
+   <a href="https://github.com/Gregory-SF">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gregory-SF&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-SF&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
