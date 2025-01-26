@@ -3,7 +3,13 @@
 
 <div>
   <p>
-  Sou um estudante de Engenharia de Software, que entrou em contato com a programação ao escrever um código para o meu TCC do ensino médio técnico, desde então estudo assiduamente para poder melhorar a cada dia. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
+  Tenho um interesse enorme por programação back-end, mesmo não possuindo exeperiência profissional, venho me capacitando com cursos e bootcamps voltados a programação Java com Springboot e JavaScript e TypeScript com Node.js. Atualmente participo de um projeto de gestão de associações, com implementação do backend em NODEJS e o frontend desenvolvido em ReactJS. Busco um emprego para adquirir experiências reais e refinar minhas habilidades práticas.
+ </p>
+</div>
+
+<div>
+  <p>
+  I have a special interest in back-end programming, even without any work experience, I've been taking courses and bootcamps focused on Java w/ Spring or JavaScript and TypeScript w/ Node.js. Currently, I am a volunteer on an association management project that works with node.js for the backend and ReactJS for the front-end. I'm looking for opportunities to practice on real-world project so that I can hone my skills.
  </p>
 </div>
 
